@@ -1,0 +1,17 @@
+Hii i built  this project in visual studio 2012 
+compiled and tested //no errors from my side 
+
+
+
+
+follow me on...  ...github and .. linkedin......@mayank-01995....
+
+instructions----
+1.install .exe software to open .ppm images
+2.extract PPM file and see the output 
+3.run FinalDay.cpp into visual studio or ecllipse for c++ developers
+4.aaamm its better if you create new project and then C/P my code in there
+5.finally run by changing .ppm names and by function calling into main()
+
+
+.............................................Mayank singh .. project c++ 2016 ....................................................
